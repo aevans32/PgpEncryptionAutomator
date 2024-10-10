@@ -1,0 +1,6 @@
+@PGPAutomator_HostAddress = http://localhost:5058
+
+GET {{PGPAutomator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
